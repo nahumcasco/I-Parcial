@@ -40,7 +40,6 @@ namespace POO
         }
 
         //Metodos
-
         public string DevolverDatosBasicos()
         {
             return "Marca: " + Marca + " Modelo: " + Modelo + " Precio: " + Precio;
